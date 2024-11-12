@@ -1,0 +1,30 @@
+.header {
+    color: #800000;
+    position:sticky;
+}
+.name {
+    color:coral;
+    position:fixed;
+    bottom: 1px;
+    right: 10px;
+}
+#h31 {
+    background-color: azure;
+    position:relative;
+    top: 50px;
+    left: 380px;
+}
+#h32 {
+    background-color: azure;
+    position:static;
+    top: 500px;
+    left: 380px;
+}
+#p1 {
+    position: absolute;
+    top: 210px;
+}
+#p2 {
+    position:static;
+    top: 1805px;
+}

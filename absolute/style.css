@@ -1,0 +1,21 @@
+.header {
+    color: #800000;
+    position:absolute;
+    top: 50px;
+}
+.name {
+    color:coral;
+    position:absolute;
+    top: 100px;
+    right: 10px;
+}
+h3 {
+    background-color: azure;
+    position:absolute;
+    top: 150px;
+    left: 390px;
+}
+p {
+    position:absolute;
+    bottom: 200px;
+}
